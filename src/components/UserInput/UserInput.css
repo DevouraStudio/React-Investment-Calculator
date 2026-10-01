@@ -33,3 +33,9 @@
   display: block;
   margin-top: 5px;
 }
+
+@media (max-width: 768px) {
+  #user-input {
+    max-width: 25rem;
+  }
+}
